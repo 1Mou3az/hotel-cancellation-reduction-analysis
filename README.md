@@ -71,7 +71,7 @@ This dataset contains **119,390 observations** for a City Hotel and a Resort Hot
 
 ## 🔗 Project Deliverables & Reports
 <p> 
-  🚀 <b>Interactive Dashboard:</b> 
+  🚀 <b> Dashboard:</b> 
   <a href="INSERT_YOUR_POWERBI_LINK_HERE">View Live Interactive Version</a>
 </p>
 
@@ -81,12 +81,4 @@ This dataset contains **119,390 observations** for a City Hotel and a Resort Hot
   (Full implementation and findings)
 </p>
 
-<p> 
-  💻 <b>Database Implementation:</b> 
-  <a href="init_database.sql">init_database.sql</a>
-</p>
-
 ---
-
-**📫 Let's Connect!**
-*Created by: [Your Name]*
