@@ -83,12 +83,12 @@ To ensure high accuracy and deep insights, this project was executed using a dua
 ## 🔗 Project Deliverables & Reports
 <p> 
   🚀 <b>Python Anlysis and Visualization:</b> 
-  <a href="Python py/">View Python Folder</a>
+  <a href="python/">View Python Folder</a>
 </p>
 
 <p> 
   📁 <b>Excel Dashboard:</b> 
-  <a href="Excel/">View Excel Folder</a>
+  <a href="excel/">View Excel Folder</a>
 </p>
 
 <p> 
