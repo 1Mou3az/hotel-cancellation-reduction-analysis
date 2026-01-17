@@ -72,13 +72,13 @@ This dataset contains **119,390 observations** for a City Hotel and a Resort Hot
 ## 🔗 Project Deliverables & Reports
 <p> 
   🚀 <b> Dashboard:</b> 
-  <a href="INSERT_YOUR_POWERBI_LINK_HERE">View Live Interactive Version</a>
+  <a href="Presentation.pdf">View Dashboard</a>
 </p>
 
 <p> 
   📑 <b>Static Analysis Report:</b> 
   <a href="Presentation.pdf">Presentation.pdf</a> 
-  (Full implementation and findings)
+  (findings and Suggestions)
 </p>
 
 ---
