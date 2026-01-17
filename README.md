@@ -83,7 +83,7 @@ To ensure high accuracy and deep insights, this project was executed using a dua
 ## 🔗 Project Deliverables & Reports
 <p> 
   🚀 <b>Python Anlysis and Visualization:</b> 
-  <a href="python/">View Python Folder</a>
+  <a href="python/Exploratory_Data_Analysis_(EDA)_and_Data_Cleaning.ipynb">View Python</a>
 </p>
 
 <p> 
